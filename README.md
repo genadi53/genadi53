@@ -4,11 +4,6 @@
 
 Hello, I'm Genadi and computer science student
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=genadi53.genadi53)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genadi53&label=Profile%20views&color=0e75b6&style=flat" /> </p>
