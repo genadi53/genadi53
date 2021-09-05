@@ -16,18 +16,12 @@ Currently looking for a new job or a internship, so feel free to connect me if y
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="images/js.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.svg" alt="css3" width="40" height="40"/> 
-<a href="https://reactjs.org" target="_blank"> <img src="images/react.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="images/firebase.png" alt="firebase" width="40" height="40"/> </a>
-
+<a href="https://reactjs.org" target="_blank"> <img src="images/react.png" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="images/node.png" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://nodejs.org/en/" target="_blank"> <img src="images/nodeW.png" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://nodejs.org/en/" target="_blank"> <img src="images/node2.png" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img  src="images/mysqlW.png" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img  src="images/mongo.png" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img  src="images/mongoW.png" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://graphql.org/" target="_blank"> <img  src="images/graphql.png" alt="graphql" width="40" height="40"/> </a>
-<a href="https://graphql.org/" target="_blank"> <img  src="images/graphqlW.png" alt="graphql" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img  src="images/mysql.png" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img  src="images/mongo.png" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="images/firebase.png" alt="firebase" width="40" height="40"/> </a>
 
 </p>
 <a href="https://postman.com" target="_blank"> <img src="images/postman.png" alt="postman" width="40" height="40"/> </a> 
