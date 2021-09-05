@@ -23,7 +23,7 @@ Currently looking for a new job or a internship, so feel free to connect me if y
 <a href="https://www.mongodb.com/" target="_blank"> <img  src="images/mongo.png" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="images/firebase.png" alt="firebase" width="40" height="40"/> </a>
 
-</p>
+<p align="left">
 <a href="https://postman.com" target="_blank"> <img src="images/postman.png" alt="postman" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img  src="images/vscode.png" alt="vscode" width="40" height="40"/> </a>
