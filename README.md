@@ -7,9 +7,9 @@
 I'm second-year Computer Science student and Full Stack Web Developer, looking to extend my knowledge as much as I can and gain experience solving interesting problems while working with cool people.
 Litle more about me - I'm newbie photographer, chess enthusiast and "pro" gamer.
 <br>
-[Check out my CV](files/Genadi_Tsolov_CV.pdf)
-<a href="files/Genadi_Tsolov_CV.pdf" download>Click to Download</a>
-<a id="raw-url" href="https://raw.githubusercontent.com/genadi53/genadi53/main/files/Genadi_Tsolov_CV.pdf">Download FILE</a>
+
+<!-- [Check out my CV](files/Genadi_Tsolov_CV.pdf)
+<a href="files/Genadi_Tsolov_CV.pdf" download>Click to Download</a> -->
 
 ## Contact with me
 
@@ -44,3 +44,5 @@ Litle more about me - I'm newbie photographer, chess enthusiast and "pro" gamer.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=genadi53&show_icons=true)
 
 </details>
+  
+<a id="raw-url" href="https://raw.githubusercontent.com/genadi53/genadi53/main/files/Genadi_Tsolov_CV.pdf">Check out my CV</a>
