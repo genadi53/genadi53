@@ -9,6 +9,7 @@ Litle more about me - I'm newbie photographer, chess enthusiast and "pro" gamer.
 <br>
 [Check out my CV](files/Genadi_Tsolov_CV.pdf)
 <a href="files/Genadi_Tsolov_CV.pdf" download>Click to Download</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/genadi53/genadi53/main/files/Genadi_Tsolov_CV.pdf">Download FILE</a>
 
 ## Contact with me
 
