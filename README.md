@@ -1,10 +1,12 @@
 ### Hi, I'm Genadi 👋
 
 <!-- ![Profile views](https://gpvc.arturio.dev/genadi53) -->
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=genadi53.genadi53&right_color=green)
 
-I am second-year Computer Science student and Full Stack Web Developer.
-I am also newbie photographer, chess enthusiast and "pro" gamer looking for trying out new things.
+I'm second-year Computer Science student and Full Stack Web Developer, looking to extend my knowledge as much as I can and gain experience solving interesting problems while working with cool people.
+Litle more about me - I'm newbie photographer, chess enthusiast and "pro" gamer.
+[Check out my CV](files/Genadi_Tsolov_CV.pdf)
 
 ## Contact with me
 
