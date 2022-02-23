@@ -4,10 +4,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=genadi53.genadi53&right_color=green)
 
-I'm second-year Computer Science student and Full Stack Web Developer, looking to extend my knowledge as much as I can and gain experience solving interesting problems while working with cool people.
+<!-- I'm second-year Computer Science student and Full Stack Web Developer, looking to extend my knowledge as much as I can and gain experience solving interesting problems while working with cool people.
 <br>
 Litle more about me - I'm newbie photographer, chess enthusiast and "pro" gamer.
-<br>
+<br> -->
 
 <!-- [Check out my CV](files/Genadi_Tsolov_CV.pdf)
 <a href="files/Genadi_Tsolov_CV.pdf" download>Click to Download</a> -->
@@ -16,7 +16,7 @@ Litle more about me - I'm newbie photographer, chess enthusiast and "pro" gamer.
 
 [<img src='images/github.svg' alt='github' height='40'>](https://github.com/genadi53) [<img src='images/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/genadi-tsolov-a17a681b5/) [<img src='images/gmail.svg' alt='gmail' height='40'>](mailto:genadi.tsolov@gmail.com)
 
-## Languages and Tools
+<!-- ## Languages and Tools
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="images/js.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -34,7 +34,7 @@ Litle more about me - I'm newbie photographer, chess enthusiast and "pro" gamer.
 <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img  src="images/vscode.png" alt="vscode" width="40" height="40"/> </a>
 </p>
-
+ -->
 <br>
 <details>
 <summary>
@@ -46,4 +46,5 @@ Litle more about me - I'm newbie photographer, chess enthusiast and "pro" gamer.
 
 </details>
   
-<a id="raw-url" href="https://raw.githubusercontent.com/genadi53/genadi53/main/files/Genadi_Tsolov_CV.pdf">Check out my CV</a>
+<!-- <a id="raw-url" href="https://raw.githubusercontent.com/genadi53/genadi53/main/files/Genadi_Tsolov_CV.pdf">Check out my CV</a>
+ -->
