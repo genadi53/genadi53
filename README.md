@@ -7,9 +7,9 @@
 I'm second-year Computer Science student and Full Stack Web Developer, looking to extend my knowledge as much as I can and gain experience solving interesting problems while working with cool people.
 <br>
 
-[Check out my CV](files/Genadi_Tsolov_CV.pdf)
-<a href="files/Genadi_Tsolov_CV.pdf" download>Click to Download</a>
-
+<!-- [Check out my CV](files/Genadi_Tsolov_CV.pdf)
+<a href="files/Genadi_Tsolov_CV.pdf" download>Click to Download</a> -->
+<a id="raw-url" href="https://raw.githubusercontent.com/genadi53/genadi53/main/files/Genadi_Tsolov_CV.pdf">Check out my CV</a>
 ## Contact with me
 
 [<img src='images/github.svg' alt='github' height='40'>](https://github.com/genadi53) [<img src='images/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/genadi-tsolov-a17a681b5/) [<img src='images/gmail.svg' alt='gmail' height='40'>](mailto:genadi.tsolov@gmail.com)
@@ -43,6 +43,3 @@ I'm second-year Computer Science student and Full Stack Web Developer, looking t
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=genadi53&show_icons=true)
 
 </details>
-  
-<!-- <a id="raw-url" href="https://raw.githubusercontent.com/genadi53/genadi53/main/files/Genadi_Tsolov_CV.pdf">Check out my CV</a>
- -->
